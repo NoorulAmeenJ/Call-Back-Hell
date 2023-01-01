@@ -1,0 +1,9 @@
+body{
+    background-image: linear-gradient(to left, lightgreen,yellow);
+    color: rgb(152, 75, 152);
+    display:flex;
+    flex-direction:column; 
+    justify-content:center;
+    align-items: center;
+    min-height:100vh;
+}
